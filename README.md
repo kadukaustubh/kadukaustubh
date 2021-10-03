@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kadukaustubh
+- 👋 Hi, I’m Kaustubh
 - 👀 I’m interested in Web Development and Blockchain
 - 🌱 I’m currently learning ReactJS
 
