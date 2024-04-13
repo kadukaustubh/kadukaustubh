@@ -6,7 +6,7 @@ I am Front End developer.
 
 *   🌍  I'm based in Mumbai, India
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://kadukaustubh.github.io'>Portfolio</a>
-*   🧠  Currently learning Next.js
+*   🧠  Currently learning Next.js and Electron
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
