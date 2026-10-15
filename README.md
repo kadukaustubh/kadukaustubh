@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kaustubh Kadu
 ========================================================================================================================================
 
-I am Front End developer.
+I am a Full Stack developer.
 --------------------------
 
-*   🌍  I'm based in Mumbai, India
+*   🌍  Based in Mumbai, India
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://kadukaustubh.github.io'>Portfolio</a>
-*   🧠  Currently learning Next.js and Electron
-*   🤝  I'm open to collaborating on interesting projects as a developer
+*   🧠  Currently working with Next.js and Electron
+*   🤝  Open to collaborating on interesting projects as a developer
 
 ### Skills
 
