@@ -5,7 +5,7 @@ I am a Full Stack developer.
 --------------------------
 
 *   🌍  Based in Mumbai, India
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://kadukaustubh.github.io'>Portfolio</a>
+*   🖥️  See my portfolio <a target="_blank" rel="noreferrer" href='https://kadukaustubh.github.io'>here</a>
 *   🧠  Currently working with Next.js and Electron
 *   🤝  Open to collaborating on interesting projects as a developer
 
